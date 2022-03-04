@@ -1,0 +1,66 @@
+.foto {
+    display: block;
+    margin: auto;
+    max-width: 150px;
+}
+header{
+    background-color: #E6E6E6;
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+    color: #005677;
+}
+.primerTitulo {
+    margin-top: 133px;
+}
+h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+    color: #005677;
+}
+li{
+    padding-bottom: 10px;
+}
+.datosPersonales {
+    font-style: oblique;
+}
+p {
+    text-indent: 2.7em;
+    position:relative; 
+    top: -10px;
+    text-indent: 120px;
+}
+.alinearMas{
+    top: -16px
+}
+span{
+    margin-left: 91px;
+}
+span#uba{
+    margin-left: 3px;
+}
+span#isl, #svt, #cadete{
+    margin-left: 46px;
+}
+ul.hide {
+    list-style-type: none;
+    text-indent: -13px;
+}
+footer {
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 2px;
+    background-color: #005677;
+    color: #FFFFFF;
+}
+img.vinculo {
+    max-width: 20px;
+    vertical-align: middle;
+    margin-left: -80px;
+}
